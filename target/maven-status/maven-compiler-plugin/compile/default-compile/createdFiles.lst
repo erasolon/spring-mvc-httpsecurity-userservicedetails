@@ -1,0 +1,11 @@
+com\erasolon\entity\Roles.class
+com\erasolon\config\SecurityConfig.class
+com\erasolon\entity\Authorities.class
+com\erasolon\config\DatabaseConfig.class
+com\erasolon\config\JpaConfig.class
+com\erasolon\controller\UserController.class
+com\erasolon\service\MyUserDetailsService.class
+com\erasolon\repository\UserRepositoryImpl.class
+com\erasolon\repository\UserRepository.class
+com\erasolon\entity\Credentials.class
+com\erasolon\main\Application.class

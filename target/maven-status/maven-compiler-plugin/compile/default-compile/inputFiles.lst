@@ -1,0 +1,11 @@
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\config\DatabaseConfig.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\repository\UserRepository.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\main\Application.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\config\JpaConfig.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\config\SecurityConfig.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\service\MyUserDetailsService.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\controller\UserController.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\repository\UserRepositoryImpl.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\entity\Authorities.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\entity\Credentials.java
+C:\Users\zaoperator_erasolon\git\HttpSecurity-UsersServiceDetails-Hibernate\src\main\java\com\erasolon\entity\Roles.java
